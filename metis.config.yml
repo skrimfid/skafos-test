@@ -1,0 +1,8 @@
+project_token: e286c02cfffcfe920c0e78c4
+name: my-bitcoin-predictor
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
